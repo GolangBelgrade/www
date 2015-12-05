@@ -10,12 +10,16 @@
     <atom:link href="http://www.golangbelgrade.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>welcome</title>
+      <title>Welcome</title>
       <link>http://www.golangbelgrade.org/post/welcome/</link>
       <pubDate>Sat, 05 Dec 2015 21:09:46 +0100</pubDate>
       
       <guid>http://www.golangbelgrade.org/post/welcome/</guid>
-      <description>&lt;p&gt;Cekaj da li ovde nesto ima?&lt;/p&gt;
+      <description>
+
+&lt;h1 id=&#34;you-can-follow-us-on-http-www-meetup-com-golangbelgrade:2cc7dc244eed4480e8b46c91e911e96b&#34;&gt;You can follow us on &lt;a href=&#34;http://www.meetup.com/GolangBelgrade/&#34;&gt;http://www.meetup.com/GolangBelgrade/&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h1 id=&#34;slack-chat-join-http-golangbelgrade-herokuapp-com:2cc7dc244eed4480e8b46c91e911e96b&#34;&gt;Slack chat join &lt;a href=&#34;http://golangbelgrade.herokuapp.com/&#34;&gt;http://golangbelgrade.herokuapp.com/&lt;/a&gt;&lt;/h1&gt;
 </description>
     </item>
     
