@@ -6,3 +6,6 @@ title = "Welcome"
 +++
 # You can follow us on http://www.meetup.com/GolangBelgrade/
 # Slack chat join http://golangbelgrade.herokuapp.com/
+
+[id]: http://www.meetup.com/GolangBelgrade/ "Meetup group"
+[id]: http://golangbelgrade.herokuapp.com/ "Slack join"
