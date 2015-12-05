@@ -4,8 +4,5 @@ draft = false
 title = "Welcome Golang Belgrade"
 
 +++
-# You can follow us on http://www.meetup.com/GolangBelgrade/
-# Slack chat join http://golangbelgrade.herokuapp.com/
-
-[Meetup Group](http://www.meetup.com/GolangBelgrade/)
-[Slack](http://golangbelgrade.herokuapp.com/)
+# You can follow us on [Meetup Group](http://www.meetup.com/GolangBelgrade/)
+# Slack chat join [Slack](http://golangbelgrade.herokuapp.com/)
