@@ -1,0 +1,22 @@
+baseurl = "http://www.golangbelgrade.org/"
+languageCode = "en-us"
+title = "Golang Belgrade"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+theme = "slim"
+canonifyurls = true
+
+categories = [
+  "news",
+  "events"
+]
+
+[params]
+  Subtitle = "Golang Belgrade meetup group"
+  GithubID = "GolangBelgrade"
+  TwitterID = "GolangBelgrade"
+  AnalyticsID = "Your Google Analytics tracking code"
+  Summary = true  # takes true or false
+  Content = false  # takes true or false
+  # if both are set to true, summary is shown.
