@@ -1,9 +1,8 @@
 +++
 date = "2015-12-05T21:09:46+01:00"
 draft = false
-title = "welcome"
+title = "Welcome"
 
 +++
-
-
-Cekaj da li ovde nesto ima?
+# You can follow us on http://www.meetup.com/GolangBelgrade/
+# Slack chat join http://golangbelgrade.herokuapp.com/
