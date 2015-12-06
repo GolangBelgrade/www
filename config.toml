@@ -16,7 +16,7 @@ categories = [
   Subtitle = "Golang Belgrade meetup group"
   GithubID = "GolangBelgrade"
   TwitterID = "GolangBelgrade"
-  AnalyticsID = "Your Google Analytics tracking code"
+  AnalyticsID = "UA-71097558-1"
   Summary = true  # takes true or false
   Content = false  # takes true or false
   # if both are set to true, summary is shown.
