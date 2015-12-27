@@ -10,22 +10,21 @@
     <atom:link href="http://www.golangbelgrade.org/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>About</title>
+      <title>O nama</title>
       <link>http://www.golangbelgrade.org/about/</link>
       <pubDate>Sun, 27 Dec 2015 14:02:37 +0200</pubDate>
       
       <guid>http://www.golangbelgrade.org/about/</guid>
       <description>
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ullam earum dolorum! Sed, perspiciatis.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit.&lt;/p&gt;
+&lt;p&gt;Mi smo grupa entuzijasta i želimo da približimo programski jezik Go zajednici u Srbiji.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h3 id=&#34;lorem-ipsum-dolor:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Lorem ipsum dolor.&lt;/h3&gt;
+&lt;h3 id=&#34;okupljanja:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Okupljanja&lt;/h3&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea dicta corporis ad inventore itaque impedit dolor atque amet exercitationem! Veniam qui voluptas maiores vel laudantium necessitatibus, velit ducimus! Iste hic facere, accusamus fugiat enim facilis.&lt;/p&gt;
+&lt;p&gt;Plan je da jednom mesečno organizujemo meetup na kome ćemo imati jedno predavanje u trajanju od 30-60 minuta. Nakon toga još dodatnih 60 minuta za networking i druženje.
+Planiramo i da organizujemo radionice u budćnosti ali otom potom. Za sada će sav sadržaj i predavanja biti na srpskom jeziku.&lt;/p&gt;
 </description>
     </item>
     
