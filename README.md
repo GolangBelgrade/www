@@ -23,3 +23,10 @@ git commit -am "Addd new post"
 git push origin master
 git subtree push --prefix=public https://github.com/GolangBelgrade/www.git gh-pages
 ```
+
+Add new theme
+-----------
+```git
+cd themes
+git clone <url_of_theme> ( git clone https://github.com/dim0627/hugo_theme_beg beg )
+```

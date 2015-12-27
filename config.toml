@@ -4,7 +4,7 @@ title = "Golang Belgrade"
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
-theme = "slim"
+theme = "beg"
 canonifyurls = true
 
 categories = [
