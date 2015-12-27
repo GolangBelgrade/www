@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Golang Belgrade</title>
-    <link>http://www.golangbelgrade.org/</link>
-    <description>Recent content on Golang Belgrade</description>
+    <title>Abouts on Golang Belgrade</title>
+    <link>http://www.golangbelgrade.org/about/</link>
+    <description>Recent content in Abouts on Golang Belgrade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Dec 2015 14:02:37 +0200</lastBuildDate>
-    <atom:link href="http://www.golangbelgrade.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.golangbelgrade.org/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
@@ -26,20 +26,6 @@
 &lt;h3 id=&#34;lorem-ipsum-dolor:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Lorem ipsum dolor.&lt;/h3&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea dicta corporis ad inventore itaque impedit dolor atque amet exercitationem! Veniam qui voluptas maiores vel laudantium necessitatibus, velit ducimus! Iste hic facere, accusamus fugiat enim facilis.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Welcome Golang Belgrade</title>
-      <link>http://www.golangbelgrade.org/post/welcome/</link>
-      <pubDate>Sat, 05 Dec 2015 21:09:46 +0100</pubDate>
-      
-      <guid>http://www.golangbelgrade.org/post/welcome/</guid>
-      <description>
-
-&lt;h1 id=&#34;you-can-follow-us-on-meetup-group-http-www-meetup-com-golangbelgrade:2cc7dc244eed4480e8b46c91e911e96b&#34;&gt;You can follow us on &lt;a href=&#34;http://www.meetup.com/GolangBelgrade/&#34;&gt;Meetup Group&lt;/a&gt;&lt;/h1&gt;
-
-&lt;h1 id=&#34;slack-chat-join-slack-http-golangbelgrade-herokuapp-com:2cc7dc244eed4480e8b46c91e911e96b&#34;&gt;Slack chat join &lt;a href=&#34;http://golangbelgrade.herokuapp.com/&#34;&gt;Slack&lt;/a&gt;&lt;/h1&gt;
 </description>
     </item>
     
