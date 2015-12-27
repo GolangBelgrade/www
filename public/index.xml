@@ -10,36 +10,35 @@
     <atom:link href="http://www.golangbelgrade.org/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>About</title>
+      <title>O nama</title>
       <link>http://www.golangbelgrade.org/about/</link>
       <pubDate>Sun, 27 Dec 2015 14:02:37 +0200</pubDate>
       
       <guid>http://www.golangbelgrade.org/about/</guid>
       <description>
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ullam earum dolorum! Sed, perspiciatis.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit.&lt;/p&gt;
+&lt;p&gt;Mi smo grupa entuzijasta i želimo da približimo programski jezik Go zajednici u Srbiji.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h3 id=&#34;lorem-ipsum-dolor:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Lorem ipsum dolor.&lt;/h3&gt;
+&lt;h3 id=&#34;okupljanja:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Okupljanja&lt;/h3&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea dicta corporis ad inventore itaque impedit dolor atque amet exercitationem! Veniam qui voluptas maiores vel laudantium necessitatibus, velit ducimus! Iste hic facere, accusamus fugiat enim facilis.&lt;/p&gt;
+&lt;p&gt;Plan je da jednom mesečno organizujemo meetup na kome ćemo imati jedno predavanje u trajanju od 30-60 minuta. Nakon toga još dodatnih 60 minuta za networking i druženje.
+Planiramo i da organizujemo radionice u budćnosti ali otom potom. Za sada će sav sadržaj i predavanja biti na srpskom jeziku.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Welcome Golang Belgrade</title>
+      <title>Golang Belgrade dobrodošlica</title>
       <link>http://www.golangbelgrade.org/post/welcome/</link>
       <pubDate>Sat, 05 Dec 2015 21:09:46 +0100</pubDate>
       
       <guid>http://www.golangbelgrade.org/post/welcome/</guid>
       <description>
 
-&lt;h1 id=&#34;you-can-follow-us-on-meetup-group-http-www-meetup-com-golangbelgrade:2cc7dc244eed4480e8b46c91e911e96b&#34;&gt;You can follow us on &lt;a href=&#34;http://www.meetup.com/GolangBelgrade/&#34;&gt;Meetup Group&lt;/a&gt;&lt;/h1&gt;
+&lt;h3 id=&#34;you-can-follow-us-on-meetup-group-http-www-meetup-com-golangbelgrade:2cc7dc244eed4480e8b46c91e911e96b&#34;&gt;You can follow us on &lt;a href=&#34;http://www.meetup.com/GolangBelgrade/&#34;&gt;Meetup Group&lt;/a&gt;&lt;/h3&gt;
 
-&lt;h1 id=&#34;slack-chat-join-slack-http-golangbelgrade-herokuapp-com:2cc7dc244eed4480e8b46c91e911e96b&#34;&gt;Slack chat join &lt;a href=&#34;http://golangbelgrade.herokuapp.com/&#34;&gt;Slack&lt;/a&gt;&lt;/h1&gt;
+&lt;h3 id=&#34;slack-chat-join-slack-http-golangbelgrade-herokuapp-com:2cc7dc244eed4480e8b46c91e911e96b&#34;&gt;Slack chat join &lt;a href=&#34;http://golangbelgrade.herokuapp.com/&#34;&gt;Slack&lt;/a&gt;&lt;/h3&gt;
 </description>
     </item>
     
