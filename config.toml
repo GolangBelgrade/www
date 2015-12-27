@@ -37,10 +37,11 @@ disqusShortname = ""
 	subtitle404 = ""
 
     # Social icons style - circle, rounded, or empty
-    socialIconStyle = "rounded"
+    socialIconStyle = "circle"
 
 # Add additional social link entries underneath
 [social]
     twitter  = "https://www.twitter.com/GolangBelgrade"
     facebook = "https://www.facebook.com/GolangBelgrade"
-    github   = "https://www.github.com/GolangBelgrade"
+	meetup = "http://www.meetup.com/GolangBelgrade"
+	githubalt = "https://www.github.com/GolangBelgrade"
