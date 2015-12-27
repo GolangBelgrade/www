@@ -1,30 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Golang Belgrade </title>
+    <title>Posts on Golang Belgrade</title>
     <link>http://www.golangbelgrade.org/post/</link>
+    <description>Recent content in Posts on Golang Belgrade</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author></author>
-    <rights>(C) 2015</rights>
-    <updated>2015-12-05 21:09:46 &#43;0100 CET</updated>
-
+    <lastBuildDate>Sat, 05 Dec 2015 21:09:46 +0100</lastBuildDate>
+    <atom:link href="http://www.golangbelgrade.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Welcome Golang Belgrade</title>
+      <link>http://www.golangbelgrade.org/post/welcome/</link>
+      <pubDate>Sat, 05 Dec 2015 21:09:46 +0100</pubDate>
       
-        <item>
-          <title>Welcome Golang Belgrade</title>
-          <link>http://www.golangbelgrade.org/post/welcome/</link>
-          <pubDate>Sat, 05 Dec 2015 21:09:46 CET</pubDate>
-          <author></author>
-          <guid>http://www.golangbelgrade.org/post/welcome/</guid>
-          <description>
+      <guid>http://www.golangbelgrade.org/post/welcome/</guid>
+      <description>
 
 &lt;h1 id=&#34;you-can-follow-us-on-meetup-group-http-www-meetup-com-golangbelgrade:2cc7dc244eed4480e8b46c91e911e96b&#34;&gt;You can follow us on &lt;a href=&#34;http://www.meetup.com/GolangBelgrade/&#34;&gt;Meetup Group&lt;/a&gt;&lt;/h1&gt;
 
 &lt;h1 id=&#34;slack-chat-join-slack-http-golangbelgrade-herokuapp-com:2cc7dc244eed4480e8b46c91e911e96b&#34;&gt;Slack chat join &lt;a href=&#34;http://golangbelgrade.herokuapp.com/&#34;&gt;Slack&lt;/a&gt;&lt;/h1&gt;
 </description>
-        </item>
-      
+    </item>
     
-
   </channel>
 </rss>
