@@ -1,26 +1,46 @@
+# Site settings
 baseurl = "http://www.golangbelgrade.org/"
 languageCode = "en-us"
 title = "Golang Belgrade"
-contentdir = "content"
-layoutdir = "layouts"
-publishdir = "public"
-theme = "angels-ladder"
-canonifyurls = true
-
-categories = [
-  "news",
-  "events"
-]
+theme = "hugo-cactus-theme"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "UA-71097558-1"
+# Disable comments by leaving disqusShortname empty
+disqusShortname = ""
 
 [params]
-  Author = "Golang Belgrade Team"
-  Subtitle = "Golang Belgrade meetup group"
-  Github = "GolangBelgrade"
-  Twitter = "GolangBelgrade"
-  GoogleAnalyticsUserID = "UA-71097558-1"
-  Facebook = "golangbelgrade"
-  ShowRelatedPost = true
-  Summary = true  # takes true or false
-  Content = false  # takes true or false
-  SyntaxHighlightTheme = "github.min.css"
-  # if both are set to true, summary is shown.
+	name = "Golang Belgrade"
+	description = "Describe your website"
+	bio = "Golang user group Belgrade"
+	# Enter optionally your twitter account
+	twitter = ""
+	enableRSS = false
+
+	# The variables below are optionally too and can be used to
+	# translate or customize each string of the theme.
+
+	# Navigation links
+	home = "Početna"
+	about = "O nama"
+	subscribe = "RSS"
+	# Pagination links
+	olderPosts = ""
+	newerPosts = ""
+	readMore = ""
+	copyright = ""
+	# Sharing options and author information in posts
+	aboutAuthor = "Gophers, we are."
+	tweet = ""
+	share = ""
+	# 404 page
+	title404 = ""
+	subtitle404 = ""
+
+    # Social icons style - circle, rounded, or empty
+    socialIconStyle = "rounded"
+
+# Add additional social link entries underneath
+[social]
+    twitter  = "https://www.twitter.com/GolangBelgrade"
+    facebook = "https://www.facebook.com/GolangBelgrade"
+    github   = "https://www.github.com/GolangBelgrade"
