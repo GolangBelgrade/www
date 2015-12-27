@@ -13,10 +13,14 @@ categories = [
 ]
 
 [params]
+  Author = "Golang Belgrade Team"
   Subtitle = "Golang Belgrade meetup group"
-  GithubID = "GolangBelgrade"
-  TwitterID = "GolangBelgrade"
-  AnalyticsID = "UA-71097558-1"
+  Github = "GolangBelgrade"
+  Twitter = "GolangBelgrade"
+  GoogleAnalyticsUserID = "UA-71097558-1"
+  Facebook = "golangbelgrade"
+  ShowRelatedPost = true
   Summary = true  # takes true or false
   Content = false  # takes true or false
+  SyntaxHighlightTheme = "github.min.css"
   # if both are set to true, summary is shown.
