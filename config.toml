@@ -4,7 +4,7 @@ title = "Golang Belgrade"
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
-theme = "beg"
+theme = "angels-ladder"
 canonifyurls = true
 
 categories = [
@@ -19,4 +19,5 @@ categories = [
   AnalyticsID = "UA-71097558-1"
   Summary = true  # takes true or false
   Content = false  # takes true or false
+  frontpageposts = 6
   # if both are set to true, summary is shown.
