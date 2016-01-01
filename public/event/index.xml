@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Golang Belgrade</title>
-    <link>http://www.golangbelgrade.org/</link>
-    <description>Recent content on Golang Belgrade</description>
+    <title>Events on Golang Belgrade</title>
+    <link>http://www.golangbelgrade.org/event/</link>
+    <description>Recent content in Events on Golang Belgrade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2016 16:57:28 +0100</lastBuildDate>
-    <atom:link href="http://www.golangbelgrade.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.golangbelgrade.org/event/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GolangBelgrade meetup #1</title>
@@ -28,39 +28,6 @@
 &lt;h3 id=&#34;location-startit-centar-savska-5-belgrade:b68bc3794d1b412cc407a671832ecc78&#34;&gt;Location: Startit Centar, Savska 5, Belgrade&lt;/h3&gt;
 
 &lt;h3 id=&#34;rsvp-http-www-meetup-com-golangbelgrade-events-227694678:b68bc3794d1b412cc407a671832ecc78&#34;&gt;&lt;a href=&#34;http://www.meetup.com/GolangBelgrade/events/227694678/&#34;&gt;RSVP&lt;/a&gt;&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>O nama</title>
-      <link>http://www.golangbelgrade.org/about/</link>
-      <pubDate>Sun, 27 Dec 2015 14:02:37 +0200</pubDate>
-      
-      <guid>http://www.golangbelgrade.org/about/</guid>
-      <description>
-
-&lt;p&gt;Mi smo grupa entuzijasta i želimo da približimo programski jezik Go zajednici u Srbiji.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;okupljanja:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Okupljanja&lt;/h3&gt;
-
-&lt;p&gt;Plan je da jednom mesečno organizujemo meetup na kome ćemo imati jedno predavanje u trajanju od 30-60 minuta. Nakon toga još dodatnih 60 minuta za networking i druženje.
-Planiramo i da organizujemo radionice u budćnosti ali otom potom. Za sada će sav sadržaj i predavanja biti na srpskom jeziku.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Golang Belgrade dobrodošlica</title>
-      <link>http://www.golangbelgrade.org/post/welcome/</link>
-      <pubDate>Sat, 05 Dec 2015 21:09:46 +0100</pubDate>
-      
-      <guid>http://www.golangbelgrade.org/post/welcome/</guid>
-      <description>
-
-&lt;h3 id=&#34;you-can-follow-us-on-meetup-group-http-www-meetup-com-golangbelgrade:2cc7dc244eed4480e8b46c91e911e96b&#34;&gt;You can follow us on &lt;a href=&#34;http://www.meetup.com/GolangBelgrade/&#34;&gt;Meetup Group&lt;/a&gt;&lt;/h3&gt;
-
-&lt;h3 id=&#34;slack-chat-join-slack-http-golangbelgrade-herokuapp-com:2cc7dc244eed4480e8b46c91e911e96b&#34;&gt;Slack chat join &lt;a href=&#34;http://golangbelgrade.herokuapp.com/&#34;&gt;Slack&lt;/a&gt;&lt;/h3&gt;
 </description>
     </item>
     
